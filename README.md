@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year B.Tech student at **BBD University, Lucknow**  
+🎓 Final-year B.Tech student at **Babu Banarsi Das University, Lucknow**  
 📅 **Graduating in August 2025**  
 🧠 Passionate about full-stack development, problem solving, and learning new technologies  
 📌 Open to internship/full-time roles to learn and grow in the tech industry  
