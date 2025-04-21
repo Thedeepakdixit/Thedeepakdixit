@@ -53,7 +53,7 @@
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-dixit-6ba7224)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-dixit-6baa27224)  
 - 💻 [GitHub](https://github.com/Thedeepakdixit)  
 - 📧 [Email](mailto:thedeepakdixit20@gmail.com)
 
